@@ -9,7 +9,7 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Montevideo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -37,7 +37,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/m-atia-s # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.linkedin.com/in/m-atia-s/
+    - https://www.linkedin.com/in/m-atia-s/
 
 # Site Verification Settings
 webmaster_verifications:
